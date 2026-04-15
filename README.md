@@ -2,7 +2,7 @@
 
 **Glycoprotein B – Neutralizing Antibody Complex (A₃B₃C₃) Using AlphaFold Multimer**
 
-[![DOI](https://img.shields.io/badge/DOI-pending-blue)]()
+
 [![EM Map](https://img.shields.io/badge/EMDB-EMD--21247-green)](https://www.ebi.ac.uk/emdb/EMD-21247)
 
 ---
